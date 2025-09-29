@@ -29,3 +29,7 @@ Features include product management, user registration, order placement, payment
    ```
    npm run preview
    ```
+
+## Output
+
+<img width="1278" height="884" alt="Screenshot 2025-09-29 123341" src="https://github.com/user-attachments/assets/efae2868-c8d2-4560-ba4d-762f7a48047c" />
