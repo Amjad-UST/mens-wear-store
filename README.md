@@ -17,16 +17,15 @@ Features include product management, user registration, order placement, payment
    ```
    npm install
    ```
-2. Compile TypeScript:
+2. Run in dev mode:
    ```
-   npx tsc
+   npm run dev
    ```
-3. Run the app:
+3. Build for production:
    ```
-   node dist/index.js
+   npm run build
    ```
-
-## Notes
-
-- No frameworks required.
-- Demonstrates advanced TypeScript features.
+4. Preview production build:
+   ```
+   npm run preview
+   ```
